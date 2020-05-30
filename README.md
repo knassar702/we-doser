@@ -13,3 +13,6 @@ Down Your Router Admin Panel
 
 
 ### Note : This Script for scanning your router from this vulnerability .! , use at your own risk
+
+
+## By : <a href='https://facebook.com/knassar702'>Khaled Nassar</a> <a href='mailto:knassar702@gmail.com'>@knassar702</a>
