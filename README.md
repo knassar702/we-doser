@@ -1,5 +1,5 @@
 # we-doser
-#### We Dos Attack vulnerability
+#### Huawei Router Attack vulnerability
 
 <img src='src/we_doser.png'>
 
