@@ -3,7 +3,7 @@
 
 <img src='src/we_doser.png'>
 
-## We Router Version : 2020
+## Huawei Router Version : 2020
 
 ## impact : 
 Down Your Router Admin Panel
