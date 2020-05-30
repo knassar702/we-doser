@@ -38,7 +38,8 @@ print(r'''
 /                                  \
 {yellow}# Coded by : Khaled Nassar @knassar702
 {red}-------use at your own risk-------------
-	'''.format(red=red,yellow=yellow,bold=bold))
+{end}
+	'''.format(red=red,yellow=yellow,bold=bold,end=end))
 if len(sys.argv) < 2:
 	print('Usage : python3 we_doser.py ROUTER_IP')
 	exit()
