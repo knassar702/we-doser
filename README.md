@@ -3,10 +3,10 @@
 
 <img src='src/we_doser.png'>
 
+## We Router Version : 2020
+
 ## impact : 
 Down Your Router Admin Panel
-
-
 
 ## Usage
 ```$ python3 we_doser.py 192.168.1.1```
