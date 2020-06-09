@@ -3,10 +3,8 @@
 
 <img src='src/we_doser.png'>
 
-## Huawei Router Version : 2020
+## Huawei Router Version : DG8045
 
-## impact : 
-Down Your Router Admin Panel
 
 ## Usage
 ```$ python3 we_doser.py 192.168.1.1```
